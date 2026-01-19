@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-I'm Rodrigo, a mechanical engineering PhD student at Stony Brook University.
+I'm Rodrigo, a PhD student in Mechanical Engineering at Stony Brook University focusing on optimal and learning-based control for complex dynamical systems.
 
-- 🔭 I’m currently working on a reinforcement-learning-based control unit for internal combustion engines [here](https://github.com/rhadlich/RayProject.git).
+- 🔭 Building a reinforcement-learning-based control framework with Control Barrier Function (CBF) safety filters for internal combustion engines  
+  → [RL-CBF Controller Project](https://github.com/rhadlich/RayProject.git)
+
+- 💡 Interests: optimal control, reinforcement learning, hybrid energy systems, and safety-critical AI
+
+- 🛠 Tools: Python, PyTorch, Ray/RLlib, MATLAB, control & optimization
 
 <!--
 **rhadlich/rhadlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
