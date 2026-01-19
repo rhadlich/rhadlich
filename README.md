@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Rodrigo, I'm a mechanical engineer from Brazil living in New York.
+
 <!--
 **rhadlich/rhadlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
