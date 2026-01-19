@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Rodrigo, I'm a mechanical engineer from Brazil living in New York.
+I'm Rodrigo, a mechanical engineering PhD student at Stony Brook University.
+
+- 🔭 I’m currently working on a reinforcement-learning-based control unit for internal combustion engines.
 
 <!--
 **rhadlich/rhadlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
