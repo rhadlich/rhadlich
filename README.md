@@ -2,7 +2,7 @@
 
 I'm Rodrigo, a mechanical engineering PhD student at Stony Brook University.
 
-- 🔭 I’m currently working on a reinforcement-learning-based control unit for internal combustion engines.
+- 🔭 I’m currently working on a reinforcement-learning-based control unit for internal combustion engines [here](https://github.com/rhadlich/RayProject.git).
 
 <!--
 **rhadlich/rhadlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
